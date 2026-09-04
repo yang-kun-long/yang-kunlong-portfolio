@@ -2,7 +2,7 @@
 
 独立的 Vite + React 项目展示页，收录已确认公开的 GitHub 项目，并区分在线运行、已发布、已交付、持续开发和学习参与状态。
 
-在线地址：[yang-kunlong-portfolio.pages.dev](https://yang-kunlong-portfolio.pages.dev)
+在线地址：[yangkunlong.top](https://yangkunlong.top)
 
 ## 运行
 
